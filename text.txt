@@ -1,0 +1,1 @@
+the manin clone file using push  and pull requesat by using git
